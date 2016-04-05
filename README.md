@@ -1,6 +1,7 @@
 # wcomponents-sass-compiler
 
 Thin wrapper around [Vaadin Sass Compiler](https://github.com/vaadin/sass-compiler) in order to:
+
 1. Add an Ant task (which greatly improves performance over the Ant `java` task).
 2. Support input/output directories rather than single files.
 
